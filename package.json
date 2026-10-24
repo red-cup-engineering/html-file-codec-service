@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@lenticule-science/articulating": "0.2.0",
-    "@red-cup-engineering/css-services-section": "workspace:*",
+    "@red-cup-engineering/css-engineering-services-section": "workspace:*",
     "@red-cup-engineering/file-projection-kernel-service": "workspace:*",
     "@red-cup-engineering/html-document-render-service": "workspace:*",
     "@red-cup-engineering/json-file-codec-service": "workspace:*",
